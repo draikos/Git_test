@@ -8,8 +8,6 @@ public class Project {
         {
             System.out.println("drdwsdssdfdeet");
             System.out.println("drdwsdssdfdeet");
-            System.out.println("drdwsdfwersdssdfdeet");
-            System.out.println("drdwsdssdfdeet");
 
 
         }
